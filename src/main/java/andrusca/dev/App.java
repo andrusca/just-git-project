@@ -11,7 +11,6 @@ public class App
         System.out.println("GIT DEVELOP");
         System.out.println( "GIT" );
         System.out.println("git learning !");
-        System.out.println("it'terrible difficult");
         System.out.println("I am happy");
         System.out.println("!!!!!");
     }
